@@ -480,7 +480,6 @@
 }
 
 .latest-box {
-  max-width: 367px;
   padding: 26px 8px 19px 22px;
   border: 1px solid var(--black);
   transition: all 300ms linear;
@@ -939,7 +938,7 @@
   }
 
   .mt-col-about {
-    margin-top: 40px;
+    margin-top: 40px !important;
   }
 
   .fuding-position {
@@ -950,13 +949,13 @@
 
   .fuding-position-2 {
     transform: rotate(-20deg);
-    right: 10px;
-    bottom: 32%;
+    right: 0px;
+    bottom: 30%;
   }
 
   .fuding-position-3 {
     transform: rotate(0deg);
-    bottom: 0;
+    bottom: -5%;
     left: 30%;
   }
 

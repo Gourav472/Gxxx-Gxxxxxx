@@ -28,7 +28,7 @@ const Latest = () => {
                         <h3 className=' mb-0 black ff-inter fw-900 text-64 lh-77 text-center' data-aos="zoom-out-up">LATEST NEWS</h3>
                     </div>
                     <div className=' row latest-row-py d-none d-xl-flex'>
-                        <div className="col-6 col-lg-6 col-xl-4 d-flex justify-content-center justify-content-xl-end" data-aos="flip-left">
+                        <div className="col-6 col-lg-6 col-xl-4  " data-aos="flip-left">
                             <div className=' latest-box d-flex flex-column w-100'>
                                 <div className=' d-flex gap-14 align-items-center'>
                                     <img src={Joe} alt="biden" />
@@ -58,7 +58,7 @@ const Latest = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-6 col-lg-6 col-xl-4 d-flex justify-content-center justify-content-xl-center" data-aos="fade-up">
+                        <div className="col-6 col-lg-6 col-xl-4 " data-aos="fade-up">
                             <div className=' latest-box d-flex flex-column w-100'>
                                 <div className=' d-flex gap-14 align-items-center'>
                                     <img src={Joe} alt="biden" />
@@ -88,7 +88,7 @@ const Latest = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-6 col-lg-6 col-xl-4 d-flex justify-content-center justify-content-xl-start mt-4 mt-xl-0" data-aos="flip-right">
+                        <div className="col-6 col-lg-6 col-xl-4 mt-4 mt-xl-0" data-aos="flip-right">
                             <div className=' latest-box d-flex flex-column w-100'>
                                 <div className=' d-flex gap-14 align-items-center'>
                                     <img src={Joe} alt="biden" />
@@ -118,7 +118,7 @@ const Latest = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-6 col-lg-6 col-xl-4 d-flex justify-content-center justify-content-xl-end mt-4" data-aos="flip-left">
+                        <div className="col-6 col-lg-6 col-xl-4  mt-4" data-aos="flip-left">
                             <div className=' latest-box d-flex flex-column w-100'>
                                 <div className=' d-flex gap-14 align-items-center'>
                                     <img src={Joe} alt="biden" />
@@ -148,7 +148,7 @@ const Latest = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-6 col-lg-6 col-xl-4 d-flex justify-content-center justify-content-xl-center mt-4" data-aos="fade-up">
+                        <div className="col-6 col-lg-6 col-xl-4 mt-4" data-aos="fade-up">
                             <div className=' latest-box d-flex flex-column w-100'>
                                 <div className=' d-flex gap-14 align-items-center'>
                                     <img src={Joe} alt="biden" />
@@ -178,7 +178,7 @@ const Latest = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-6 col-lg-6 col-xl-4 d-flex justify-content-center justify-content-xl-start mt-4" data-aos="flip-right">
+                        <div className="col-6 col-lg-6 col-xl-4 mt-4" data-aos="flip-right">
                             <div className=' latest-box d-flex flex-column w-100'>
                                 <div className=' d-flex gap-14 align-items-center'>
                                     <img src={Joe} alt="biden" />
