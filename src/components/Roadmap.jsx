@@ -30,7 +30,7 @@ const Roadmap = () => {
                             <p className=' mb-0 white op-70 max-894 ff-inter fw-400 text-16 lh-30 text-center pt-roadmap' data-aos="zoom-out-up">Our roadmap isn't just a journey; it's a comedic adventure through the cryptoverse, filled with twists, turns, and plenty of laughs along the way. Here's a glimpse into what the future holds for Let's Hug GG ($LHGG)</p>
                         </div>
                     </div>
-                    <Slider {...settings} className=' d-flex  py-slider'>
+                    <Slider {...settings} className=' d-flex  py-slider max-1440'>
                         <div className=' d-flex gap_7 align-items-end'>
                             <img src={line1} alt="line-one" />
                             <div className=' d-flex flex-column pb-4'>

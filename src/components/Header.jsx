@@ -4,8 +4,8 @@ import Image222 from '../assets/images/image222.webp'
 const Header = () => {
     return (
         <>
-            <header className=' bg-black position-relative mt-decrease hero-height'>
-                <div className=' container position-relative z-1'>
+            <header className=' bg-black position-relative mt-decrease '>
+                <div className=' container position-relative z-1 '>
                     <div className=' d-flex flex-column py-header'>
                         <h1 className=' ff-inter mb-0 white text-108 fw-900 lh-130 text-center text-sm-start '>G<span className=' color-yellow'>G</span></h1>
                         <p className=' ff-inter mb-0 fw-600 text-20 lh-24 white max-538 text-center text-sm-start'>Join The <span className=' color-yellow'>Worldwide Blockchain</span> Protest Against Corrupt Government Bodies</p>
@@ -19,7 +19,7 @@ const Header = () => {
                         </svg>
                         </span></button>
                     </div>
-                    <img className=' position-absolute  d-2xl-image' src={Image222} alt="" />
+                    <img className=' position-absolute max-576 w-100 d-2xl-image' src={Hero} alt="man-2" />
 
                 </div>
                 <div className=' position-absolute header-image d_2xl_none'>
