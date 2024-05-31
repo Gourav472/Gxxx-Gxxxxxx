@@ -15,7 +15,7 @@ const Navbar = () => {
 
     return (
         <>
-            <nav className=' bg-black pb-1 ' >
+            <nav className=' bg-black pb-2 ' >
                 <div className=' container' data-aos="fade-down">
                     <div className=' navbox bg-black '>
                         <div className=' d-flex justify-content-between align-items-center '>
