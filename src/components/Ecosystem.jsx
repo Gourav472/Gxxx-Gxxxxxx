@@ -19,11 +19,11 @@ const Ecosystem = () => {
                         <div className="col-12 mt-4 mt-md-5 d-flex justify-content-center col-xl-6 mt-xl-4 d-flex justify-content-xl-end" data-aos="zoom-out-left">
                             <div className=' d-flex flex-column align-items-center align-items-xl-start'>
                                 <div className=' d-flex flex-wrap justify-content-center justify-content-xl-start align-items-center gap-logo-about'>
-                                    <a href="https://www.dextools.io/app/" target='_blank'><img src={img1} alt="image1" /></a>
-                                    <a href="https://shop.unicornstore.in/" target='_blank'><img src={img2} alt="image2" /></a>
-                                    <a href="https://x.com/?lang=en" target='_blank'><img src={img3} alt="image3" /></a>
-                                    <a href="https://web.telegram.org/a/" target='_blank'><img src={img4} alt="image4" /></a>
-                                    <a href="https://www.investopedia.com/trading-4427765" target='_blank'><img src={img5} alt="image5" /></a>
+                                    <a href="https://www.dextools.io/app/" target='_blank'><img className='max-about-svg' src={img1} alt="image1" /></a>
+                                    <a href="https://shop.unicornstore.in/" target='_blank'><img className='max-about-svg' src={img2} alt="image2" /></a>
+                                    <a href="https://x.com/?lang=en" target='_blank'><img className='max-about-svg' src={img3} alt="image3" /></a>
+                                    <a href="https://web.telegram.org/a/" target='_blank'><img className='max-about-svg' src={img4} alt="image4" /></a>
+                                    <a href="https://www.investopedia.com/trading-4427765" target='_blank'><img className='max-about-svg' src={img5} alt="image5" /></a>
                                 </div>
                                 <h6 className=' mb-0 black ff-inter fw-900 text-64 lh-77 pt-13 text-center text-xl-start'>ECOSYSTEM</h6>
                                 <p className=' mb-0 black ff-inter fw-400 text-16 lh-25 op-80 max-550 pt-20 text-center text-xl-start'>The $LHGG ecosystem is built upon the principles of inclusivity, humor, and innovation. Our community-driven approach empowers members to actively participate in governance, decision-making, and promotional activities. Through social media campaigns, memes, and creative content, we seek to amplify the message of embracing humor in the crypto space and challenging conventional narratives. Together, we aspire to foster a vibrant and engaging ecosystem where laughter reigns supreme.</p>
