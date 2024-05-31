@@ -6,7 +6,6 @@ const Header = () => {
         <>
             <header className=' bg-black position-relative mt-decrease hero-height'>
                 <div className=' container position-relative z-1'>
-
                     <div className=' d-flex flex-column py-header'>
                         <h1 className=' ff-inter mb-0 white text-108 fw-900 lh-130 text-center text-sm-start '>G<span className=' color-yellow'>G</span></h1>
                         <p className=' ff-inter mb-0 fw-600 text-20 lh-24 white max-538 text-center text-sm-start'>Join The <span className=' color-yellow'>Worldwide Blockchain</span> Protest Against Corrupt Government Bodies</p>

@@ -11,7 +11,7 @@ const Navbar = () => {
                 <div className=' container' data-aos="fade-down">
                     <div className=' navbox bg-black '>
                         <div className=' d-flex justify-content-between align-items-center '>
-                            <h2 className=' mb-0 text-white ff-inter fw-900 lh-48 text-40'>Gxxx Gxxxxxx</h2>
+                            <h2 className=' mb-0 text-white ff-inter fw-900 lh-48 text-40 cp'>Gxxx Gxxxxxx</h2>
                             <div className={` ${nav ? "end-0" : "right_100"} d-flex align-items-center gap-46 mobile_view  `}>
                                 <div className=' d-flex align-items-center gap-21'>
                                     <a href="https://www.dextools.io/app/en/pairs" target='_blank'><img src={Logo1} alt="logo" /></a>

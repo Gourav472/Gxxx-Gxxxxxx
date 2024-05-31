@@ -9,15 +9,15 @@ const Dextools = () => {
                 <div className=' container'>
                     <div className=' d-flex align-items-center flex-wrap justify-content-center gap-3 gap-md-4 justify-content-lg-between py-logo'>
                         <div className=' d-flex align-items-center gap-22' data-aos="fade-up">
-                            <img src={logo1} alt="twitter" />
+                            <a href="https://x.com/?lang=en" target='_blank'> <img src={logo1} alt="twitter" /></a>
                             <p className=' mb-0 white ff-inter fw-600 text-48 lh-589'>twitter</p>
                         </div>
                         <div className=' d-flex align-items-center gap-22' data-aos="fade-up">
-                            <img src={logo2} alt="telegram" />
+                            <a href="https://telegram.org/" target='_blank'>  <img src={logo2} alt="telegram" /></a>
                             <p className=' mb-0 white ff-inter fw-600 text-48 lh-589'>Telegram</p>
                         </div>
                         <div className=' d-flex align-items-center gap-22' data-aos="fade-up">
-                            <img src={logo3} alt="dextools" />
+                            <a href="https://www.dextools.io/app/en/pairs" target='_blank'><img src={logo3} alt="dextools" /></a>
                             <p className=' mb-0 white ff-inter fw-600 text-48 lh-589'>DEXTOOLS</p>
                         </div>
                     </div>
