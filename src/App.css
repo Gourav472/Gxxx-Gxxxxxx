@@ -179,7 +179,7 @@
 .fuding-position-3 {
   transform: rotate(-80deg);
   bottom: 32%;
-  left: 0%;
+  left: -7%;
 }
 
 .token-py {
@@ -842,6 +842,9 @@
 }
 
 @media (max-width:991px) {
+  .max-about-svg{
+    max-width: 55px;
+  }
   .mobile_view {
     position: fixed;
     background: var(--black);

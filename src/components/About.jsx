@@ -23,11 +23,11 @@ const About = () => {
                         <div className="col-12 col-xl-6 mt-4 mt-md-5 mt-xl-0 d-flex justify-content-xl-end" data-aos="fade-up-left">
                             <div className=' d-flex flex-column'>
                                 <div className=' d-flex flex-wrap justify-content-center justify-content-xl-start align-items-center gap-logo-about'>
-                                    <a href="https://www.dextools.io/app/" target='_blank'><img src={img1} alt="image1" /></a>
-                                    <a href="https://shop.unicornstore.in/" target='_blank'><img src={img2} alt="image2" /></a>
-                                    <a href="https://x.com/?lang=en" target='_blank'><img src={img3} alt="image3" /></a>
-                                    <a href="https://web.telegram.org/a/" target='_blank'><img src={img4} alt="image4" /></a>
-                                    <a href="https://www.investopedia.com/trading-4427765" target='_blank'><img src={img5} alt="image5" /></a>
+                                    <a href="https://www.dextools.io/app/" target='_blank'><img className=' max-about-svg' src={img1} alt="image1" /></a>
+                                    <a href="https://shop.unicornstore.in/" target='_blank'><img className=' max-about-svg' src={img2} alt="image2" /></a>
+                                    <a href="https://x.com/?lang=en" target='_blank'><img className=' max-about-svg' src={img3} alt="image3" /></a>
+                                    <a href="https://web.telegram.org/a/" target='_blank'><img className=' max-about-svg' src={img4} alt="image4" /></a>
+                                    <a href="https://www.investopedia.com/trading-4427765" target='_blank'><img className=' max-about-svg' src={img5} alt="image5" /></a>
                                 </div>
                                 <h3 className=' mb-0 ff-inter fw-900 text-64 lh-77 black pt-26 text-center text-xl-start'>ABOUT US</h3>
                                 <div className=' d-flex flex-column gap-between-text-about'>
