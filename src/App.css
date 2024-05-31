@@ -590,9 +590,12 @@
 .d-2xl-image {
   display: none;
 }
-
-
-
+.max-321{
+  max-width: 321px;
+}
+.mt-footer-svg{
+  margin-top: 48px;
+}
 
 
 
@@ -691,9 +694,16 @@
   .slider-height {
     height: 100%;
   }
+  .mt-copyright {
+    margin-top: 41px;
+  }
 }
 
 @media (min-width:768px) {
+  .mt-footer-svg{
+    margin-top: 13px;
+  }
+ 
   .gap-footer-links {
     gap: 66px;
   }

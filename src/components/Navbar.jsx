@@ -1,9 +1,17 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import Logo1 from '../assets/images/dextools.png'
 import Logo2 from '../assets/images/x_logo.png'
 import Logo3 from '../assets/images/telegram.png'
 const Navbar = () => {
     const [nav, setnav] = useState(false)
+
+    useEffect(() => {
+        document.body.style.overflow = nav ? "hidden" : "visible";
+
+        return () => {
+            document.body.style.overflow = "";
+        }
+    }, [nav]);
 
     return (
         <>

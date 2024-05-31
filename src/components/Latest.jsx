@@ -40,7 +40,7 @@ const Latest = () => {
                                         <p className=' mb-0 black op-80 ff-inter fw-400 text-14 lh-25'>I am giving back in the community.</p>
                                     </div>
                                 </div>
-                                <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
+                                <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20 max-321'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
                                 <div className=' d-flex align-items-center justify-content-between pt-joe-logo pe-2'>
                                     <div className=' d-flex align-items-center gap_3 op-80'>
                                         <img className='cp' src={Svg1} alt="svg1" />
@@ -70,7 +70,7 @@ const Latest = () => {
                                         <p className=' mb-0 black op-80 ff-inter fw-400 text-14 lh-25'>I am giving back in the community.</p>
                                     </div>
                                 </div>
-                                <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
+                                <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20 max-321'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
                                 <div className=' d-flex align-items-center justify-content-between pt-joe-logo pe-2'>
                                     <div className=' d-flex align-items-center gap_3 op-80'>
                                         <img className='cp' src={Svg1} alt="svg1" />
@@ -100,7 +100,7 @@ const Latest = () => {
                                         <p className=' mb-0 black op-80 ff-inter fw-400 text-14 lh-25'>I am giving back in the community.</p>
                                     </div>
                                 </div>
-                                <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
+                                <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20 max-321'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
                                 <div className=' d-flex align-items-center justify-content-between pt-joe-logo pe-2'>
                                     <div className=' d-flex align-items-center gap_3 op-80'>
                                         <img className='cp' src={Svg1} alt="svg1" />
@@ -130,7 +130,7 @@ const Latest = () => {
                                         <p className=' mb-0 black op-80 ff-inter fw-400 text-14 lh-25'>I am giving back in the community.</p>
                                     </div>
                                 </div>
-                                <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
+                                <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20 max-321'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
                                 <div className=' d-flex align-items-center justify-content-between pt-joe-logo pe-2'>
                                     <div className=' d-flex align-items-center gap_3 op-80'>
                                         <img className='cp' src={Svg1} alt="svg1" />
@@ -160,7 +160,7 @@ const Latest = () => {
                                         <p className=' mb-0 black op-80 ff-inter fw-400 text-14 lh-25'>I am giving back in the community.</p>
                                     </div>
                                 </div>
-                                <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
+                                <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20 max-321'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
                                 <div className=' d-flex align-items-center justify-content-between pt-joe-logo pe-2'>
                                     <div className=' d-flex align-items-center gap_3 op-80'>
                                         <img className='cp' src={Svg1} alt="svg1" />
@@ -190,7 +190,7 @@ const Latest = () => {
                                         <p className=' mb-0 black op-80 ff-inter fw-400 text-14 lh-25'>I am giving back in the community.</p>
                                     </div>
                                 </div>
-                                <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
+                                <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20 max-321'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
                                 <div className=' d-flex align-items-center justify-content-between pt-joe-logo pe-2'>
                                     <div className=' d-flex align-items-center gap_3 op-80'>
                                         <img className='cp' src={Svg1} alt="svg1" />
@@ -226,7 +226,7 @@ const Latest = () => {
                                     <p className=' mb-0 black op-80 ff-inter fw-400 text-14 lh-25'>I am giving back in the community.</p>
                                 </div>
                             </div>
-                            <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
+                            <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20 max-321'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
                             <div className=' d-flex align-items-center justify-content-between pt-joe-logo pe-2'>
                                 <div className=' d-flex align-items-center gap_3 op-80'>
                                     <img className='cp' src={Svg1} alt="svg1" />
@@ -254,7 +254,7 @@ const Latest = () => {
                                     <p className=' mb-0 black op-80 ff-inter fw-400 text-14 lh-25'>I am giving back in the community.</p>
                                 </div>
                             </div>
-                            <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
+                            <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20 max-321'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
                             <div className=' d-flex align-items-center justify-content-between pt-joe-logo pe-2'>
                                 <div className=' d-flex align-items-center gap_3 op-80'>
                                     <img className='cp' src={Svg1} alt="svg1" />
@@ -282,7 +282,7 @@ const Latest = () => {
                                     <p className=' mb-0 black op-80 ff-inter fw-400 text-14 lh-25'>I am giving back in the community.</p>
                                 </div>
                             </div>
-                            <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
+                            <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20 max-321'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
                             <div className=' d-flex align-items-center justify-content-between pt-joe-logo pe-2'>
                                 <div className=' d-flex align-items-center gap_3 op-80'>
                                     <img className='cp' src={Svg1} alt="svg1" />
@@ -310,7 +310,7 @@ const Latest = () => {
                                     <p className=' mb-0 black op-80 ff-inter fw-400 text-14 lh-25'>I am giving back in the community.</p>
                                 </div>
                             </div>
-                            <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
+                            <p className=' mb-0 black op-80 ff-inter fw-400 text-16 lh-25 pt-20 max-321'>Hipster ipsum tattooed brunch I'm baby. Crucifix cliche mixtape salvia vexillologist. Kickstarter sartorial post-ironic biodiesel cold-pressed a activated subway. Af dsa kickstarter squid.</p>
                             <div className=' d-flex align-items-center justify-content-between pt-joe-logo pe-2'>
                                 <div className=' d-flex align-items-center gap_3 op-80'>
                                     <img className='cp' src={Svg1} alt="svg1" />

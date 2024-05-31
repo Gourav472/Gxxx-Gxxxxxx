@@ -25,7 +25,7 @@ const Footer = () => {
                                 </ul>
                             </div>
                         </div>
-                        <div className="col-6 col-md-4 col-lg-6 align-items-end justify-content-end justify-content-md-start mb-3 mb-md-0 mt-5 mt-md-0 d-flex flex-column align-items-lg-end">
+                        <div className="col-6 col-md-4 col-lg-6 align-items-end justify-content-end justify-content-md-start mb-3 mb-md-0 mt-footer-svg d-flex flex-column align-items-lg-end">
                             <div className=' d-flex align-items-center  gap-21'>
                                 <a className='footer-logo-hover ' href="https://www.dextools.io/app/en/pairs" target='_blank'><img className='footer-logo' src={Logo1} alt="logo" /></a>
                                 <a className='footer-logo-hover ' href="https://x.com/?lang=en" target='_blank'><img className='footer-logo' src={Logo2} alt="logo2" /></a>
