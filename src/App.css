@@ -1046,9 +1046,3 @@
     right: 0%;
   }
 }
-
-@media (min-width:1536px) {
-  .py-header {
-    padding-top: 230px;
-  }
-}
