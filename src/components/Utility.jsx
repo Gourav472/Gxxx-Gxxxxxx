@@ -1,5 +1,6 @@
 import React from 'react'
 import cartoon2 from '../assets/images/carton2.webp'
+import Page from '../assets/images/page.png'
 const Utility = () => {
     return (
         <>
@@ -22,7 +23,7 @@ const Utility = () => {
                     </div>
                     <p className=' ff-grands d-none d-sm-block mb-0 fw-900 text-32 lh-32 black op-54 position-absolute utility-position '>I love FUDing</p>
                 </div>
-
+                <img className=' d-none d-sm-block position-absolute page-1' src={Page} alt="page-1" />
             </section>
         </>
     )
